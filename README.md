@@ -1,11 +1,11 @@
-# Whisper-Handoff — Seamless Cross-Device Video Continuity  
+# Device-Handoff — Seamless Cross-Device Video Continuity  
 _A UX/UI design concept for frictionless device switching on YouTube._
 
 ---
 
 ## 🧠 Overview
 
-**Whisper-Handoff** is a concept redesign of YouTube’s video experience that enables users to **instantly pick up where they left off**—on any device, without friction, syncing, or confusion.
+**Device-Handoff** is a concept redesign of YouTube’s video experience that enables users to **instantly pick up where they left off**—on any device, without friction, syncing, or confusion.
 
 This prototype introduces a **context-aware UI layer** that quietly tracks progress, creates visual continuity between devices, and offers **invisible-yet-discoverable cues** to resume watching with confidence.
 
