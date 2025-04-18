@@ -11,6 +11,13 @@ This prototype introduces a **context-aware UI layer** that quietly tracks progr
 
 ---
 
+🔗 View the Prototype
+
+👉 **Try the live design here**:  
+[Click to view on Figma](https://www.figma.com/design/x81MQUn0JG5ihWvwM4GEaC/YOUTUBE-DESIGN?node-id=0-1&t=miCf144554VSHZSI-1)
+
+
+
 ## ✨ Key Features
 
 ### 1. 🔄 **Cross-Device Syncing (Passive + Active Modes)**
