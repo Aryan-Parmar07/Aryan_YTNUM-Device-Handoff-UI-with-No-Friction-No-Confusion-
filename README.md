@@ -66,7 +66,7 @@ This system balances **active control** (buttons, gestures) and **passive discov
 
 ## 📁 Files & Structure
 
-- `/mobile-ui`: Mobile slide-up card designs
+- `/mobile-ui`: Mobile toast notification  card designs
 - `/desktop-ui`: Toast banner with Smart Animate transitions
 
 ---
